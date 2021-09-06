@@ -1,5 +1,5 @@
 {
-  "name": "swissqrbill",
+  "name": "wjshipbill",
   "version": "2.4.2",
   "description": "Swiss QR Bill generation in Node.js and browsers ",
   "main": "./lib/node",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/schoero/SwissQRBill.git"
+    "url": "git+https://github.com/siyoola/shippingbill.git"
   },
   "keywords": [
     "swiss",

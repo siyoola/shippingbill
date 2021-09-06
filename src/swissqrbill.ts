@@ -63,18 +63,18 @@ export class PDF extends ExtendedPDF.PDF {
   static translations = {
 
     DE: {
-      paymentPart: "Zahlteil",
-      account: "Konto / Zahlbar an",
-      reference: "Referenz",
-      additionalInformation: "Zusätzliche Informationen",
-      currency: "Währung",
-      amount: "Betrag",
-      receipt: "Empfangsschein",
-      acceptancePoint: "Annahmestelle",
-      separate: "Vor der Einzahlung abzutrennen",
-      payableBy: "Zahlbar durch",
-      payableByName: "Zahlbar durch (Name/Adresse)",
-      inFavourOf: "Zugunsten"
+      paymentPart: "جزئية الدفع",
+      account: "الحساب / مدفوع الى",
+      reference: "الاشاري",
+      additionalInformation: "معلومات اضافية",
+      currency: "العملة",
+      amount: "الاجمالي",
+      receipt: "المستلم",
+      acceptancePoint: "مكان الاستلام",
+      separate: "",
+      payableBy: "مدفوع من",
+      payableByName: "مدفوع من (الاسم\العنوان",
+      inFavourOf: "بالنيابة عن"
     },
     EN: {
       paymentPart: "Payment part",
